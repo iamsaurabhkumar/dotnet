@@ -1,0 +1,14 @@
+/Users/saurabhkumar/dotnet/CSharpLearning/bin/Debug/net8.0/CSharpLearning
+/Users/saurabhkumar/dotnet/CSharpLearning/bin/Debug/net8.0/CSharpLearning.deps.json
+/Users/saurabhkumar/dotnet/CSharpLearning/bin/Debug/net8.0/CSharpLearning.runtimeconfig.json
+/Users/saurabhkumar/dotnet/CSharpLearning/bin/Debug/net8.0/CSharpLearning.dll
+/Users/saurabhkumar/dotnet/CSharpLearning/bin/Debug/net8.0/CSharpLearning.pdb
+/Users/saurabhkumar/dotnet/CSharpLearning/obj/Debug/net8.0/CSharpLearning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saurabhkumar/dotnet/CSharpLearning/obj/Debug/net8.0/CSharpLearning.AssemblyInfoInputs.cache
+/Users/saurabhkumar/dotnet/CSharpLearning/obj/Debug/net8.0/CSharpLearning.AssemblyInfo.cs
+/Users/saurabhkumar/dotnet/CSharpLearning/obj/Debug/net8.0/CSharpLearning.csproj.CoreCompileInputs.cache
+/Users/saurabhkumar/dotnet/CSharpLearning/obj/Debug/net8.0/CSharpLearning.dll
+/Users/saurabhkumar/dotnet/CSharpLearning/obj/Debug/net8.0/refint/CSharpLearning.dll
+/Users/saurabhkumar/dotnet/CSharpLearning/obj/Debug/net8.0/CSharpLearning.pdb
+/Users/saurabhkumar/dotnet/CSharpLearning/obj/Debug/net8.0/CSharpLearning.genruntimeconfig.cache
+/Users/saurabhkumar/dotnet/CSharpLearning/obj/Debug/net8.0/ref/CSharpLearning.dll
