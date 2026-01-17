@@ -55,7 +55,7 @@ Master loops and pattern printing with 10+ patterns:
 - Number patterns
 - And more!
 
-### Level 3: Beginner Examples (For Laymen)
+### Level 3: Beginner Examples
 **File:** `BeginnerExamples/BeginnerBasics.cs`
 
 Easy-to-understand examples with explanations:
